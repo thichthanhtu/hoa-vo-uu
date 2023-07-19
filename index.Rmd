@@ -1,0 +1,41 @@
+---
+title: "Hoa Vô Ưu"
+author: "HT. Thích Thanh Từ"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: serif
+        size: 4
+
+      search:
+            engine: fuse      
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Hoa Vô Ưu - HT. Thích Thanh Từ"
+cover-image: "images/cover.jpg"
+---
+
+# Lời đầu sách {- #loi-dau-sach}
+
+Quyển *"Hoa Vô Ưu"* này được kết tập từ các bài giảng của Hòa thượng Viện chủ Thiền viện Thường Chiếu Thích Thanh Từ.
+
+Trong đó, gồm một số bài Hòa thượng được thỉnh giảng cho sinh viên một số trường Đại học ở Hà Nội và Thành phố Hồ Chí Minh. Ngoài ra, một số bài Hòa thượng thường giảng cho Tăng Ni, Phật tử các nơi và tại các Thiền viện.
+
+Để đáp ứng nhu cầu tìm hiểu pháp thiền và hâm mộ tu thiền của Tăng Ni, Phật tử nhưng chưa đủ điều kiện tu học trực tiếp nơi Hòa thượng, chúng tôi trình xin ý kiến của Ngài và được Ngài hoan hỷ cho biên tập lại các bài giảng trên.
+
+Tuy nhiên, vì là văn nói nên tập sách không sao tránh khỏi sự trùng lặp tất yếu của nó. Rất mong độc giả đạt ý quên lời. Được thế, hy vọng tập sách sẽ đến tay quý vị với những lợi ích thiết thực nhất. Như vậy, chúng ta có thể tìm hiểu thâm nhập và hành trì pháp thiền. Đồng thời trên bước đường tu học, chúng ta có thêm bạn đồng hành luôn cảm thông với chúng ta.
+
+
+<div class="align-right">
+*Mùa Hạ năm Canh Thìn*  
+*Thường Chiếu, ngày 24-06-2000*  
+
+**Thích Nhật Quang**
+</div>
